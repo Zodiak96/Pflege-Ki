@@ -1,3 +1,4 @@
+"use client";
 import React, { useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { Bot, Send, Stethoscope, Upload, ShieldCheck, Database, MessageSquarePlus, Loader2 } from "lucide-react";
