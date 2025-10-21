@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Amanah Pflege – KI Assistent",
+  title: "Amanat Pflege – KI Assistent",
   description: "Pflege-KI für Wundbeobachtung, Allgemeinzustand & Beratung.",
 };
 
