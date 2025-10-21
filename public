@@ -1,5 +1,1 @@
-mkdir public
-touch public/.gitkeep
-git add -A
-git commit -m "create public folder"
-git push
+
